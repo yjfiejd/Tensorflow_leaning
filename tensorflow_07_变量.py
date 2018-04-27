@@ -1,6 +1,7 @@
 # -*- coding:utf8 -*-
 # @TIME : 2018/4/27 下午9:05
 # @Author : Allen
+# @File : tensorflow_07_变量.py
 
 import tensorflow as tf
 
